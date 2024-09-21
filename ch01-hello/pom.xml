@@ -10,6 +10,7 @@
     </parent>
 
     <artifactId>ch01-hello</artifactId>
+    <packaging>war</packaging>
 
     <dependencies>
         <dependency>
